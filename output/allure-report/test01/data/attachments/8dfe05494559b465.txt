@@ -1,0 +1,21 @@
+2024-03-21 16:35:00 INFO session_id : 00d8159a0cf3cf51d2db3acb81be2095
+2024-03-21 16:35:02 INFO 1:click success, locator:CSS,#details-button
+2024-03-21 16:35:06 INFO 1:click success, locator:css,#proceed-link
+2024-03-21 16:35:08 INFO 1:click success, locator:xpath,//*[@class="slack-auth"]
+2024-03-21 16:35:08 INFO 1:click success, locator:css,.signin-action button
+2024-03-21 16:35:11 INFO 元素：css,.signin-action 消失
+2024-03-21 16:35:11 INFO open url https://10.112.0.153:11870
+2024-03-21 16:35:14 INFO windows: ['837761446ED123EB22E25EBCF3750645', 'DF510477F265CF6856BEA96027165876']
+2024-03-21 16:35:15 INFO windows: ['DF510477F265CF6856BEA96027165876']
+2024-03-21 16:35:15 INFO current window:DF510477F265CF6856BEA96027165876
+2024-03-21 16:35:15 INFO css,.header-logo ele_exist:True
+2024-03-21 16:35:16 INFO 1:click success, locator:xpath,//*[@class="slack-auth"]
+2024-03-21 16:35:17 WARNING {'level': 'SEVERE', 'message': 'https://im.autox.clu//user_avatars/2/5cb530cd2ae9e373bd14f83ea269a19d7b4e3193.png?version=3 - Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID', 'source': 'network', 'timestamp': 1711010109992}
+2024-03-21 16:35:17 WARNING {'level': 'SEVERE', 'message': 'https://im.autox.clu//user_avatars/2/5cb530cd2ae9e373bd14f83ea269a19d7b4e3193.png?version=3 - Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID', 'source': 'network', 'timestamp': 1711010115681}
+2024-03-21 16:35:17 WARNING {'level': 'SEVERE', 'message': 'https://im.autox.clu//user_avatars/2/5cb530cd2ae9e373bd14f83ea269a19d7b4e3193.png?version=3 - Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID', 'source': 'network', 'timestamp': 1711010116924}
+2024-03-21 16:35:17 INFO 刷新页面
+2024-03-21 16:35:22 INFO css,.header-logo ele_exist:True
+2024-03-21 16:35:22 INFO css,.header-logo ele_exist:True
+2024-03-21 16:35:22 INFO 当前 session_id: 00d8159a0cf3cf51d2db3acb81be2095
+2024-03-21 16:35:22 INFO 起始页面：https://10.112.0.153:11870/drive/local/scenarios?page=1&pageSize=20&sorted=%5B%5D&filter=%7B%22conditions%22%3A%5B%5D%7D
+2024-03-21 16:35:22 INFO 最终页面：https://10.112.0.153:11870/drive/local/scenarios?page=1&pageSize=20&sorted=%5B%5D&filter=%7B%22conditions%22%3A%5B%5D%7D

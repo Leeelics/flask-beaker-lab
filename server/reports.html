@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Folder Contents</title>
+</head>
+<body>
+    <h1>Folder Contents</h1>
+    <ul>
+        {% for item in contents %}
+            <li>
+                {% if item.type == 'folder' %}
+                    <a href="{{ url_for('folder', folder_path=item.path)}}">{{ item.path}}</a>
+                {% else %}
+                    {{ item.name }}
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
